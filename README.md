@@ -14,9 +14,12 @@
 * Backend Development
 * Cybersecurity
 
+
 ## Current Projects
 
-* No current projects yet — I'm currently building my skills and working through my training.
+* 🚀 Currently building my web development skills through IYF We Can Academy Season 12.
+
+* I'm practicing Git, GitHub, Markdown, HTML, CSS, and JavaScript while working toward building my first full-stack application.
 
 ## How to Reach Me
 
