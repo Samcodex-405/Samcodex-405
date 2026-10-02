@@ -41,3 +41,33 @@ user.name=Shaniz Ann Mumbua
 ## Links
 
 - [Markdown Practice](markdown-practice.md)
+
+
+## Week 0 Team
+
+### Teammates
+
+* **Team Member:** [@Nyakito](https://github.com/Nyakito)
+* **Team Member:** [@tracey](https://github.com/traceywanjiru)
+* **Team Member:** [@Shaniz](https://github.com/Samcodex-405)
+* **Team Member:** [@Maina](https://github.com/ElvisMaina-ctr)
+
+### Team Repository
+
+* [IYF S12 Week 00 Team Repository](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito)
+
+### My Pull Requests
+
+* [PR #20 — Fix HTML paragraph formatting](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/pull/20)
+* [PR #21 — Fix markdown section](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/pull/21)
+
+### My Issues
+
+* [Issue #18 — Fix formatting errors in the HTML section](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/issues/18)
+* [Issue #19 — Proofread and correct the Markdown section](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/issues/19)
+
+### PRs That Closed Issues
+
+* [PR #20 — Fix HTML paragraph formatting (`Closes #18`)](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/pull/20)
+* [PR #21 — Fix markdown section (`Closes #19`)](https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito/pull/21)
+
