@@ -9,8 +9,6 @@ Replace every YOUR_USERNAME below with your GitHub username.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Shann;Student+at+IYF+%C3%97+WeCan+Academy;Building+with+HTML%2C+CSS+%26+JavaScript;Learning+React%2C+Node+%26+MongoDB;Let's+build+something+great+together+%E2%9C%A8)](https://git.io/typing-svg)
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
 
 ---
