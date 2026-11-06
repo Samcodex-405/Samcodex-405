@@ -56,7 +56,6 @@ Replace every YOUR_USERNAME below with your GitHub username.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samcodex-405&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
-![GitHub Activity](./profile/signal-field-wide-dark.svg)
 
 </div>
 
