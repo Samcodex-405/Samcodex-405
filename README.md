@@ -56,10 +56,7 @@ Replace every YOUR_USERNAME below with your GitHub username.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Samcodex-405&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Samcodex-405&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Samcodex-405&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![GitHub Activity](./profile/signal-field-wide-dark.svg)
 
 </div>
 
